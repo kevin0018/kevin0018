@@ -1,31 +1,31 @@
 ![Header](https://github.com/user-attachments/assets/423670da-b679-40b6-b86d-9641e231363d)
 
-### 🚀 Welcome to My GitHub! 🚀
+### 🚀 ¡Bienvenido a mi GitHub! 🚀
 
 🌐 [English version](README.md) | 🇪🇸 [Versión en español](README.es.md)
 
-👋 **Hey there! I'm Kevin Hernández** – a passionate Full Stack Developer.
+👋 **¡Hola! Soy Kevin Hernández** – un apasionado Desarrollador Full Stack.
 
-## About Me
+## Sobre mí
 
-**Responsible** and **efficient** professional with strong adaptability and a constant drive to learn something new
-every day. Experienced in both **frontend** and **backend** development, consistently applying best practices such as *
-*TDD** and **SOLID** principles to deliver robust and maintainable applications. Knowledgeable in **DDD** (Domain-Driven
-Design) and experienced in implementing patterns like **CQRS** (Command Query Responsibility Segregation), enabling the
-development of clean and scalable architectures. Thrive in team environments, sharing ideas and contributing to
-high-quality projects with a proactive and collaborative approach.
+Profesional **responsable** y **eficiente**, con gran capacidad de adaptación y una motivación constante por aprender
+algo nuevo cada día. Tengo experiencia tanto en desarrollo **frontend** como **backend**, aplicando siempre buenas
+prácticas como **TDD** y **SOLID** para entregar aplicaciones robustas y mantenibles. Poseo conocimientos
+en **DDD** (Diseño Dirigido por el Dominio) y experiencia implementando patrones como **CQRS** (Separación de Comandos y
+Consultas), lo que me permite desarrollar arquitecturas limpias y escalables. Disfruto trabajando en equipo,
+compartiendo ideas y contribuyendo a proyectos de calidad con una actitud proactiva y colaborativa.
 
-Seeking opportunities to further develop **Full Stack** skills and contribute to the design, development, and deployment
-of innovative applications.
+Busco oportunidades para seguir desarrollando mis habilidades **Full Stack** y contribuir en el diseño, desarrollo y
+despliegue de aplicaciones innovadoras.
 
-## 📂 Personal Projects
+## 📂 Proyectos personales
 
-🌍 [Portfolio](https://kevin0018.github.io/portfolio)  
+🌍 [Portafolio](https://kevin0018.github.io/portfolio)  
 💻 [GitHub](https://github.com/kevin0018)
 
-## Languages and Tools:
+## Lenguajes y herramientas:
 
-**Fronted**
+**Frontend**
 
 <img src="https://github.com/user-attachments/assets/d14b6bc7-c789-45bb-af60-3c5e1848ad03" height="40" title="HTML5">
 <img src="https://github.com/user-attachments/assets/ecfbb7d7-c138-4d90-9bb5-8a72ccccd7fd" height="40" title="CSS">
@@ -53,7 +53,7 @@ of innovative applications.
 <img src="https://github.com/user-attachments/assets/d329c3d7-6437-4d35-af5c-e92bb24c7eff" height="40" title="Apache">
 <img src="https://github.com/user-attachments/assets/825275cb-c9e3-4639-bd1b-649fcc498142" height="40" title="GNU Bash">
 
-**Others**
+**Otros**
 
 <img src="https://github.com/user-attachments/assets/a684fb02-f730-4bad-8036-4699710bb86c" height="40" title="Docker">
 <img src="https://github.com/user-attachments/assets/7946bf5a-b39d-41e9-ae3b-74d10b0b635a" height="40" title="WordPress">
@@ -65,16 +65,16 @@ of innovative applications.
 <img src="https://github.com/user-attachments/assets/c1d07a51-5cae-46b5-bcfd-d7e9ff294c13" height="40" title="VisualStudioCode">
 <img src="https://github.com/user-attachments/assets/ba01300c-efaf-4d64-9f32-49b32703ca44" height="40" title="Java">
 
-## 📫 **Let's Connect!**
+## 📫 **¡Conectemos!**
 
-Feel free to reach out! 😊
+¡No dudes en ponerte en contacto conmigo! 😊
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-hernandez-deras)
 
 📧 [akevin.2215@gmail.com](mailto:akevin.2215@gmail.com)
 
-## 📄 [Download CV](https://github.com/user-attachments/files/20185697/CV_Kevin_Hernandez_Deras.pdf)
+## 📄 [Descargar CV](https://github.com/user-attachments/files/20185697/CV_Kevin_Hernandez_Deras.pdf)
 
 [![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app/api?username=kevin0018&theme=dracula&show_icons=true&hide_rank=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-🔥 Always building, always learning, always innovating! 🚀
+🔥 ¡Siempre construyendo, siempre aprendiendo, siempre innovando! 🚀
