@@ -38,6 +38,7 @@ despliegue de aplicaciones innovadoras.
 <img src="https://github.com/user-attachments/assets/94f7ec14-9494-4a11-9025-f743c0badebb" height="40" title="TypeScript">
 <img src="https://github.com/user-attachments/assets/38e23c7e-68f9-4651-b2ac-d1ae18eb0368" height="40" title="Bootstrap">
 <img src="https://github.com/user-attachments/assets/e0c32820-28eb-45ce-979e-30e7a5e3e9f4" height="40" title="jQuery">
+<img src="https://github.com/user-attachments/assets/a1be3a42-ac4b-4289-96e7-ba327d34d34c" height="40" title="Swiper">
 
 **Backend**
 
