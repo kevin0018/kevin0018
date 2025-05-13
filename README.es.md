@@ -75,7 +75,7 @@ despliegue de aplicaciones innovadoras.
 
 ## 📄 [Descargar CV](https://github.com/user-attachments/files/20185697/CV_Kevin_Hernandez_Deras.pdf)
 
-[![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app//api/top-langs/?username=kevin0018&layout=compact&hide=Jupyter%20Notebook&langs_count=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app//api/top-langs/?username=kevin0018&layout=compact&hide=Jupyter%20Notebook&langs_count=10&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app/api?username=kevin0018&theme=dracula&show_icons=true&hide_rank=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 🔥 ¡Siempre construyendo, siempre aprendiendo, siempre innovando! 🚀
