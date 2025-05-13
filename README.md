@@ -71,4 +71,6 @@ Feel free to reach out! 😊
 
 ## 📄 [Download CV](https://github.com/user-attachments/files/20185697/CV_Kevin_Hernandez_Deras.pdf)
 
+[![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app/api?username=kevin0018&theme=dracula&show_icons=true&hide_rank=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 🔥 Always building, always learning, always innovating! 🚀
