@@ -78,3 +78,6 @@ Feel free to reach out! 😊
 
 [![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app//api/top-langs/?username=kevin0018&layout=compact&hide=Jupyter%20Notebook&langs_count=10&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app/api?username=kevin0018&theme=dracula&show_icons=true&hide_rank=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+## Thank you for visiting my profile!
+
+> Veni, vidi, vici.
