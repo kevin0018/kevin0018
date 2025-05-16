@@ -9,8 +9,8 @@
 ## About Me
 
 **Responsible** and **efficient** professional with strong adaptability and a constant drive to learn something new
-every day. Experienced in both **frontend** and **backend** development, consistently applying best practices such as *
-*TDD** and **SOLID** principles to deliver robust and maintainable applications. Knowledgeable in **DDD** (Domain-Driven
+every day. Experienced in both **frontend** and **backend** development, consistently applying best practices such as 
+**TDD** and **SOLID** principles to deliver robust and maintainable applications. Knowledgeable in **DDD** (Domain-Driven
 Design) and experienced in implementing patterns like **CQRS** (Command Query Responsibility Segregation), enabling the
 development of clean and scalable architectures. Thrive in team environments, sharing ideas and contributing to
 high-quality projects with a proactive and collaborative approach.
