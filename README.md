@@ -21,6 +21,7 @@ of innovative applications.
 ## 📂 Personal Projects
 
 🌍 [Portfolio](https://kevin0018.github.io/portfolio)  
+🔍 [wikiLoL](https://wikilol-client.vercel.app/)
 💻 [GitHub](https://github.com/kevin0018)
 
 ## Languages and Tools:
