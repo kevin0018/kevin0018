@@ -74,7 +74,7 @@ despliegue de aplicaciones innovadoras.
 
 📧 [akevin.2215@gmail.com](mailto:akevin.2215@gmail.com)
 
-## 📄 [Descargar CV](https://github.com/user-attachments/files/20549093/CV_Kevin_Hernandez_Deras.pdf)
+## 📄 [Descargar CV](https://github.com/user-attachments/files/20726074/CV_Kevin_Hernandez_Deras.pdf)
 
 [![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app//api/top-langs/?username=kevin0018&layout=compact&hide=Jupyter%20Notebook&langs_count=10&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats-kevin0018s-projects.vercel.app/api?username=kevin0018&theme=dracula&show_icons=true&hide_rank=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
