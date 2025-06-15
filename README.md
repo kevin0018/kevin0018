@@ -54,6 +54,7 @@ of innovative applications.
 <img src="https://github.com/user-attachments/assets/0b165007-850b-467d-ad87-0f4596281803" height="40" title="Laravel">
 <img src="https://github.com/user-attachments/assets/d329c3d7-6437-4d35-af5c-e92bb24c7eff" height="40" title="Apache">
 <img src="https://github.com/user-attachments/assets/825275cb-c9e3-4639-bd1b-649fcc498142" height="40" title="GNU Bash">
+<img src="https://github.com/user-attachments/assets/ba01300c-efaf-4d64-9f32-49b32703ca44" height="40" title="Java">
 
 **Others**
 
@@ -65,7 +66,7 @@ of innovative applications.
 <img src="https://github.com/user-attachments/assets/0046e0fa-7dd8-495d-9d54-88cc1bf607f8" height="40" title="Rider">
 <img src="https://github.com/user-attachments/assets/14cd8ab2-eabb-4351-a9bd-a7aa82cbe90e" height="40" title="Linux">
 <img src="https://github.com/user-attachments/assets/c1d07a51-5cae-46b5-bcfd-d7e9ff294c13" height="40" title="VisualStudioCode">
-<img src="https://github.com/user-attachments/assets/ba01300c-efaf-4d64-9f32-49b32703ca44" height="40" title="Java">
+
 
 ## 📫 **Let's Connect!**
 
