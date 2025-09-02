@@ -22,6 +22,7 @@ of innovative applications.
 
 🌍 [Portfolio](https://kevin0018.github.io/portfolio)  
 🔍 [wikiLoL](https://wikilol-client.vercel.app/)  
+🐾 [Huellas](https://www.youtube.com/watch?v=fSuxMNJuMlU)  
 💻 [GitHub](https://github.com/kevin0018)
 
 ## Languages and Tools:
