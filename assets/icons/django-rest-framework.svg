@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Django REST Framework">
+  <rect width="128" height="128" rx="22" fill="#092E20"/>
+  <path d="M24 34h80" stroke="#44B78B" stroke-width="8" stroke-linecap="round"/>
+  <text x="64" y="78" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="#FFFFFF">DRF</text>
+  <text x="64" y="101" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#C9F7DF">API</text>
+</svg>
