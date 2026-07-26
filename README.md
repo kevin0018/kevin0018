@@ -24,7 +24,7 @@ Experience includes frontend development, backend design, API development, relat
 ## Personal Projects
 
 - [Portfolio](https://kevin0018.github.io/portfolio)
-- [wikiLoL](https://wikilol-client.vercel.app/)
+- [wikiLoL](https://github.com/kevin0018)
 - [Huellas](https://github.com/kevin0018/Huellas)
 - [GitHub](https://github.com/kevin0018)
 
